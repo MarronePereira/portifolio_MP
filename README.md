@@ -18,4 +18,6 @@ Tecnologias utilizadas:
   
 nome do arquivo: calcularMedia_AppScript.txt
 
+link do arquivo: <a href = "https://script.google.com/macros/s/AKfycby_8twYY5vIfYp4WKw1iIJTRcYHgC1oNa_1yj55-OMj4UHgUROwk9CKMS-bOu1-g5fBAQ/exec" > Site Aqui!</a>
+
 
