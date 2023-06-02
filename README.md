@@ -21,7 +21,7 @@ link do arquivo: <a href = "https://script.google.com/macros/s/AKfycby_8twYY5vIf
 
 nome do arquivo: loginDoEmaileSenha.txt
 
-<h1>Projeto: Pagina que loga no Email</h1>
+<h1>Projeto: Projeto que faz login </h1>
 
 Arquivo (S):
 <ul>
