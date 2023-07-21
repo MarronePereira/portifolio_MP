@@ -25,7 +25,7 @@ nome do arquivo: loginDoEmaileSenha.txt
 
 Arquivo (S):
 <ul>
-  <li>calcmedia</li>
+  <li>logindoarquivo</li>
 </ul>  
 
 Descriçâo:  Pagina Web que Loga no Email e Senha.
@@ -43,7 +43,7 @@ nome do arquivo: Planilha.txt
 
 Arquivo (S):
 <ul>
-  <li>calcmedia</li>
+  <li>cadastrolivro</li>
 </ul>  
 
 Descriçâo:  Pagina Web que cadastra livo na planilha.
@@ -62,7 +62,7 @@ nome do arquivo: Questâo 1 (Lista de exercicio 1).txt
 
 Arquivo (S):
 <ul>
-  <li>calcmedia</li>
+  <li>listra1</li>
 </ul>  
 
 Descriçâo:  Pagina Web que calcula destancia,consumo e preço.
@@ -80,7 +80,7 @@ nome do arquivo: Questâo 2 (Lista de exercicio 1).txt
 
 Arquivo (S):
 <ul>
-  <li>calcmedia</li>
+  <li>listra1</li>
 </ul>  
 
 Descriçâo:  Pagina Web que calcula destancia,consumo e preço; e o arquivo e eviado para doPost e nâo pro doGet.
