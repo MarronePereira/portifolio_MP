@@ -56,8 +56,6 @@ Tecnologias utilizadas:
 link do arquivo: <a href = "https://script.google.com/macros/s/AKfycbw79Qub0ZzUDiqllvmbBwYuv4gOGzYFL1_XHA62bUqptHUHRU5d2XssttZXC25akFXF/exec" > Site Aqui!</a>
 
 
-
-
 nome do arquivo: Questâo 1 (Lista de exercicio 1).txt
 
 <h1>Projeto: Gasto de gasolina(Quesâo 1)</h1>
@@ -75,4 +73,24 @@ Tecnologias utilizadas:
   <li>JavaScript</li>
 </ul>
 link do arquivo: <a href = "https://script.google.com/macros/s/AKfycbztzLiVD4ge3G5HXZSFD08OdygP-3DvijBCIHN0LeLRlSfeAPaSrotAh3LprhPAgSA/exec" > Site Aqui!</a>
+
+nome do arquivo: Questâo 2 (Lista de exercicio 1).txt
+
+<h1>Projeto: Gasto de gasolina(Quesâo 2)</h1>
+
+Arquivo (S):
+<ul>
+  <li>calcmedia</li>
+</ul>  
+
+Descriçâo:  Pagina Web que calcula destancia,consumo e preço; e o arquivo e eviado para doPost e nâo pro doGet.
+
+Tecnologias utilizadas:
+
+<ul>
+  <li>JavaScript</li>
+</ul>
+link do arquivo: <a href = "https://script.google.com/macros/s/AKfycbz5ktpSvBHrJisPaE7f0puYnYSKfT4JL6wfe19GHnn7W6QXT77FX5n--0Mb9py0nCBgKw/exec" > Site Aqui!</a>
+
+
 
