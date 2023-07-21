@@ -56,3 +56,21 @@ Tecnologias utilizadas:
 link do arquivo: <a href = "https://script.google.com/macros/s/AKfycbw79Qub0ZzUDiqllvmbBwYuv4gOGzYFL1_XHA62bUqptHUHRU5d2XssttZXC25akFXF/exec" > Site Aqui!</a>
 
 
+nome do arquivo: Questâo 1 (Lista de exercicio 1).txt
+
+<h1>Projeto: Gasto de gasolina </h1>
+
+Arquivo (S):
+<ul>
+  <li>calcmedia</li>
+</ul>  
+
+Descriçâo:  Pagina Web que calcula destancia,consumo e preço.
+
+Tecnologias utilizadas:
+
+<ul>
+  <li>JavaScript</li>
+</ul>
+link do arquivo: <a href = "https://script.google.com/macros/s/AKfycbztzLiVD4ge3G5HXZSFD08OdygP-3DvijBCIHN0LeLRlSfeAPaSrotAh3LprhPAgSA/exec" > Site Aqui!</a>
+
